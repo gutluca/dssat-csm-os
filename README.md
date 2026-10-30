@@ -2,7 +2,7 @@
 
 **Authors:** Gustavo de A. Luca, Izael M. Fattori Jr., Willingthon Pavan, Fábio R. Marin
 
-**Affiliations:** Luiz de Queiroz College of Agriculture (ESALQ), University of São Paulo, Brazil; University of Florida, USA
+**Affiliations:** ESALQ, University of São Paulo, Brazil; UF, University of Florida, USA
 
 ---
 
